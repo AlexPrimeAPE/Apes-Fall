@@ -59,10 +59,13 @@
     <Compile Include="Assets\Scripts\movement2d.cs" />
     <Compile Include="Assets\CollegeStudent\Demo\DemoCollegeStudentController.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\MenuButtons.cs" />
     <Compile Include="Assets\Scripts\CharecterController2D.cs" />
     <Compile Include="Assets\Scripts\Move.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Move.cs" />
+    <Compile Include="Assets\Scripts\SelectLevelButtonsClick.cs" />
+    <Compile Include="Assets\Scripts\OptionsButtonClick.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
